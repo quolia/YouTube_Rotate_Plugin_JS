@@ -9,9 +9,6 @@ This extension lets you to rotate and scale YouTube videos.
 ### Chrome
 [https://chrome.google.com/webstore/detail/retro-youtube-filter/mmjbbchdcjpenhfpmfokboacigfgmaib](https://chrome.google.com/webstore/detail/retro-youtube-filter/mmjbbchdcjpenhfpmfokboacigfgmaib)
 
-### Firefox
-[https://addons.mozilla.org/en-US/firefox/addon/retro-youtube-filter/](https://addons.mozilla.org/en-US/firefox/addon/retro-youtube-filter/)
-
 Reload the Youtube page if already active to see it in action
 
 ## Debugging / Local Installation
