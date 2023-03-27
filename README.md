@@ -6,8 +6,8 @@ This extension lets you to rotate and scale YouTube videos.
 
 ## Installation
 
-Download ZIP and install it in a browser by an extensions manager.
-Reload the Youtube page if already active to see it in action.
+Download ZIP, unzip, and install it in a browser by an extensions manager.
+Reload the YouTube page if already active to see it in action.
 
 ## Debugging / Local Installation
 
