@@ -22,7 +22,7 @@ function getVideo() {
     return videos.length > 0 ? videos[0] : null;
 }
 
-function onMouseMove(ev){
+function onMouseMove(ev) {
     if (!ev.ctrlKey && !ev.altKey)
         return;
 
