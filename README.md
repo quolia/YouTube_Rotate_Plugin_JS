@@ -1,4 +1,4 @@
-# ROTATE YOUTUBE VIDEO: Rotate and scale YouTube video
+# ROTATE AND SCALE YOUTUBE VIDEO
 
 ![](screenshot.png)
 
@@ -34,9 +34,9 @@ For some reason, this extension does not work in Firefox when using Manifest v3,
 
 Press CTRL and move mouse over a video horizontally to rotate the video.
 Press CTRL and move mouse over the video vertically to scale the video.
+Press ALT and move mouse over the video to move the video.
 
-The extension is supported by Chrome and Firefox.
-Safari support is untested.
+The extension is supported by Chrome, Firefox, Edge. Other browsers are not tested.
 
 ## Security & Privacy
 
