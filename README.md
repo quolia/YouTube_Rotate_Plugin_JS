@@ -30,7 +30,7 @@ For some reason, this extension does not work in Firefox when using Manifest v3,
 - Click "Load Unpacked" and select the extension folder
 - Reload the Youtube page if already active to see it in action
 
-## Functionality
+## How to use
 
 Press CTRL and move mouse over a video horizontally to rotate the video.
 Press CTRL and move mouse over the video vertically to scale the video.
