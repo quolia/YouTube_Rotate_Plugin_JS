@@ -1,8 +1,8 @@
 # ROTATE AND SCALE YOUTUBE VIDEO
 
-![](screenshot.png)
-
 This extension lets you to rotate and scale YouTube videos.
+
+![](screenshot.png)
 
 ## Installation
 
